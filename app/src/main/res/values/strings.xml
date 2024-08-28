@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My restaurant</string>
+
+    <string name="app_menu">conoce nuestro menu</string>
+    <string name="app_sede">visita nuestras sedes</string>
+    <string name="app_reservas">realiza tu reserva</string>
+    <string name="app_pedido">realiza tu pedido</string>
+
+    <string name="entrada1">Sopas</string>
+    <string name="entrada2">Empanadas</string>
+    <string name="entrada3">Patacones</string>
+
+    <string name="ing_entrada1">Sancocho, Consome, Frijoles</string>
+    <string name="ing_entrada2">Carne, Pollo, Paisas</string>
+    <string name="ing_entrada3">Con hogado, Guacamole</string>
+
+    <string name="prec_entrada1"> $10.000 </string>
+    <string name="prec_entrada2"> $8.000 </string>
+    <string name="prec_entrada3"> $12.000 </string>
+
+    <string name="plato_fuerte1">Pescados</string>
+    <string name="plato_fuerte2">Pastas</string>
+    <string name="plato_fuerte3">Asados</string>
+
+    <string name="ing_plato_fuerte1">Tilapia, Salmon, Robalo</string>
+    <string name="ing_plato_fuerte2">Carbonara, Napolitana, Bolognesa</string>
+    <string name="ing_plato_fuerte3">Baby beef, Ternera, Costilla</string>
+
+    <string name="prec_plato_fuerte1"> $30.000 </string>
+    <string name="prec_plato_fuerte2"> $30.000 </string>
+    <string name="prec_plato_fuerte3"> $40.000 </string>
+
+    <string name="postre1">Helados</string>
+    <string name="postre2">Waffles</string>
+    <string name="postre3">Torta</string>
+
+    <string name="ing_postre1">Chocolate, Vainilla, Fresa</string>
+    <string name="ing_postre2">Nutella, Frutos rojos, Arequipe</string>
+    <string name="ing_postre3">Chocolate, Zanahoria, Red velvet </string>
+
+    <string name="prec_postre1"> $8.000 </string>
+    <string name="prec_postre2"> $12.000 </string>
+    <string name="prec_postre3"> $10.000 </string>
+
+    <string name="bebidas1">Jugos</string>
+    <string name="bebidas2">Alcoholicas</string>
+    <string name="bebidas3">Malteadas</string>
+
+    <string name="ing_bebidas1">Fresa, Lulo, Mango</string>
+    <string name="ing_bebidas2">Cointreu, Hennessy, Cerveza</string>
+    <string name="ing_bebidas3">Chocolate, Fresa, Vainilla</string>
+
+    <string name="prec_bebidas1"> $10.000 </string>
+    <string name="prec_bebidas2"> $40.000 </string>
+    <string name="prec_bebidas3"> $12.000 </string>
+
+
+
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
